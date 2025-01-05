@@ -23,7 +23,7 @@
 - Styled-components: CSS-in-JS 방식을 통해 스타일링과 컴포넌트의 유지보수성 향상
 - Firebase: 실시간 데이터베이스, 사용자 인증, 비밀번호 재설정 기능 구현
 - React-Calendar: 직관적인 캘린더 UI 제공 및 날짜 기반의 다이어리 기능 구현
-  L- unar.js: 음력 변환 및 음력 기반 날짜 처리 기능 구현
+- unar.js: 음력 변환 및 음력 기반 날짜 처리 기능 구현
 - Context API: 전역 상태 관리를 통해 React 애플리케이션 내 상태 공유
 - Git: 코드 버전 관리
 
